@@ -1,6 +1,6 @@
 # Tonysserver
 
-TODO: Write a gem description
+A simple ruby server.  
 
 ## Installation
 
@@ -18,7 +18,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+$ ruby tonysserver.rb
+```
 
 ## Contributing
 
